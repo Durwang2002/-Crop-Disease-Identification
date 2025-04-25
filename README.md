@@ -1,3 +1,17 @@
+
+## 🗃 Dataset
+
+**Note**:  
+⚠️ *Due to size limitations, the dataset is not included in this repository.*  
+You need to download it manually from Kaggle:
+
+👉 [PlantVillage Dataset on Kaggle](https://www.kaggle.com/datasets/emmarex/plantdisease)
+
+Extract it and place it inside a folder named `dataset` in the root project directory.
+
+
+
+
 # 🌾 Crop Disease Identification System (Binary Classification)
 
 This project is a real-time web application that allows users—especially farmers and agronomists—to identify whether a crop leaf is **Healthy** or **Unhealthy** by simply uploading an image. It leverages a Convolutional Neural Network (CNN) trained on plant leaf images and offers not only the prediction but also related **description**, **precautions**, and **confidence score**.
